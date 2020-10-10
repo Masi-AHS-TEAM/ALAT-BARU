@@ -1,4 +1,5 @@
-﻿clear
+
+clear
 figlet AHS TERMUX | lolcat
 echo "====================================================
 # Coded   : A SETENGAH 12
