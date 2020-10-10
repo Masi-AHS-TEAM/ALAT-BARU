@@ -20,6 +20,8 @@ echo " [10] Penghancur hp " | lolcat
 echo " [11] Penambahan alat " | lolcat
 echo " Tulis nomor yang ingin kamu pilih di bawah ini ⬇ " | lolcat
 read nomor
+exit
+fi 
 
 if [ $nomor = 1 ] || [ $nomor = 01 ]
 then
